@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on any project 
 - 😄 Pronouns: lils
-- ⚡ Fun fact: I can win a sleeping competition easi;y
+- ⚡ Fun fact: I can win a sleeping competition easily
 
 <!---
 Lily-714/Lily-714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
